@@ -82,11 +82,6 @@ function markToDoItemAsCompleted(todoId) {
 }
 
 // Function to delete a task from the array
-// It should accept a number as a parameter (id of the todo item)
-// Loop through the array of todos, and when you find the todo item with the id
-// that matches the id passed to the function, remove it from the array
-// the function does not need to return anything, though you can return
-// true or false depending on whether the item was successfully deleted
 function deleteToDoItem(todoId) {
   // Implement the logic to remove a task here
 
